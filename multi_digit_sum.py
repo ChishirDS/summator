@@ -50,5 +50,3 @@ class MultiDigitSum(SingleDigitSum):
         
         return amount_register
 
-f = MultiDigitSum('11', '11')
-print(f.parsing())
