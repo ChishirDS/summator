@@ -116,7 +116,8 @@ class MultiDigitSum(SingleDigitSum):
         return result[1:len(result)]
         
         
-        
+    def multiple(self):
+        pass    
             
         
 
